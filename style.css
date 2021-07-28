@@ -1,0 +1,21 @@
+.nav-bg{
+    background-color: #FFF9F4;
+}
+h1{
+    text-transform: uppercase;
+}
+.bg-red{
+    color: red;
+}
+.bg-blue{
+background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+;
+color: white;
+}
+.bg-ash{
+    background-color: #F1F1F1;
+}
+.w-80{
+    width: 80px;
+    height: 80px;
+}
